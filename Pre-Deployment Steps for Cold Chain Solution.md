@@ -27,7 +27,7 @@ After completing this lab, you will be able to:
 
 * Azure portal access with Owner permission.
 
- **Note:** You should have access to Azure portal with Owner permission to complete this Training Lab
+**Note:** You should have access to Azure portal with Owner permission to complete this Training Lab
 
 ## Exercise 1: Create Azure Active Directory Application
 
@@ -97,6 +97,8 @@ Any application that wants to use the capabilities of Azure AD must first be reg
 
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d8.png)
 
+**Result:** After completing this exercise, you should have successfully created Azure AD application.
+
 ## Exercise 2: Create Session ID
 
 **Scenario**
@@ -118,3 +120,5 @@ The main tasks for this exercise are as follows:
 3.	**Copy** and **Note down** the generated GUID which is highlighted in the below figure, this will be used while deploying the **ARM template.**  
 
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d10.png)
+
+**Result:** After completing this exercise, you should have successfully created Session ID.
