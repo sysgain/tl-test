@@ -25,9 +25,9 @@ After completing this lab, you will be able to:
 
 ## Pre-Requisites
 
-*Azure portal access with Owner permission.
+* Azure portal access with Owner permission.
 
-**Note:** You should have access to Azure portal with Owner permission to complete this Training Lab
+ **Note:** You should have access to Azure portal with Owner permission to complete this Training Lab
 
 ## Exercise 1: Create Azure Active Directory Application
 
