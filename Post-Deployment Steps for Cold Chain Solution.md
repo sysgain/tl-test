@@ -73,8 +73,7 @@ The main tasks for this exercise are as follows:
 
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d52.png)
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d53.png)
-
-Click **Yes** to continue.
+ Click **Yes** to continue.
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d54.png)    
 
 Login ID: **gethadmin**
