@@ -32,12 +32,14 @@ After completing this lab, you will be able to:
 
 * Azure Portal access with Owner permission.
 * You need to have the local copy of the Secure Cold Chain repository. You can download/clone the same from the below url
+  
   https://github.com/SecureColdChain/Wipro-Ltd-ColdChain
 
 * You need to complete the following labs before attempting this lab
-  Pre-Deployment Steps for Cold Chain Solution
-  Deploying the Cold Chain Solution ARM template
-  Post-Deployment Steps for Cold Chain Solution
+
+  1. Pre-Deployment Steps for Cold Chain Solution
+  2. Deploying the Cold Chain Solution ARM template
+  3. Post-Deployment Steps for Cold Chain Solution
 
 **Note:** You should have access to Azure portal with Owner permission to complete this Training Lab
 
