@@ -6,7 +6,7 @@
 
 [Pre-Requisites](#Pre-requisites)
 
-[Exercise 1:  Deploy smart contract and getting the Contract Address](#exercise-1-deploy-smart-contract-and-getting-the-contractt-address)
+[Exercise 1: Deploy smart contract and getting the Contract Address](#exercise-1-deploy-smart-contract-and-getting-the-contractt-address)
 
 ## Overview
 
@@ -39,7 +39,7 @@ After completing this lab, you will be able to:
 This exercise explains how to deploy Deploy smart contract and getting the contract Address.
 
 The main tasks for this exercise are as follows:
-
+ 
 1.	Associating NAT rule of port 8545 to the BM0 Machine
 
 2.	Deploying smart contract and getting the Contract Address
@@ -65,7 +65,7 @@ The main tasks for this exercise are as follows:
 
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/de15.PNG)
 
-### Task 1: Deploying smart contract and getting the Contract Address
+### Task 1: Deploy smart contract and getting the Contract Address
 
 1.Go back to the **Load Balancer** and copy IP Address and port: **3000** paste it in to the putty.
 
