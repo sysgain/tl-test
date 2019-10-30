@@ -6,7 +6,7 @@
 
 [Pre-Requisites](#Pre-requisites)
 
-[Exercise 1: Deploy smart contract and getting the Contract Address](#exercise-1-deploy-smart-contract-and-getting-the-contractt-address)
+[Exercise 1: Deploy smart contract and getting the Contract Address](#exercise-1-deploy-smart-contract-and-getting-the-contract-address)
 
 ## Overview
 
