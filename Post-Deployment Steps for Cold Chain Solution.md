@@ -72,13 +72,17 @@ The main tasks for this exercise are as follows:
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d51.png)
 
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d52.png)
+
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d53.png)
+ 
  Click **Yes** to continue.
+ 
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d54.png)    
 
 Login ID: **gethadmin**
 Password: **Password@1234**
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d55.png)    
+![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d55.png)  
+
 ![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d56.png)  
 
 1.	Run the following command in **BM0** to download the **script(smart-script.sh)** to deploy the smart contract
