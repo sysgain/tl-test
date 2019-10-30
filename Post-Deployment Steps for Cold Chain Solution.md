@@ -116,7 +116,7 @@ After the contract deployment you have to perform the following steps to run the
 
 For that you have to provide the following values from the output section of the ARM and provide it to the following script url.
 
-Refer output section from the ARM deployment **4.2.1**
+Refer output section from the ARM deployment for the Blockchain IP or FQDN.
 
 1. Blockchain IP or FQDN: :**"2.175.243.187"** (or you can provide the RPC URL with FQDN as well **ex**: test1htih.westus2.cloudapp.azure.com)
 
