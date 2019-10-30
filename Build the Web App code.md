@@ -44,6 +44,7 @@ After completing this lab, you will be able to:
 ## Exercise 1: Create Bing Map API Key
 
 **Scenario**
+
 This exercise explains about how to create a Bing map API key
 
 The main tasks for this exercise are as follows:
@@ -78,6 +79,7 @@ The main tasks for this exercise are as follows:
 ## Exercise 2: Build UI Code
 
 **Scenario**
+
 This exercise explains about how to build the nodejs code.
 
 ### Task 1: Building the Web App code
@@ -164,6 +166,7 @@ Note: Before running the above command make sure that you have installed Angular
 ## Exercise 3: Uploading the Built UI code to Web Application
 
 **Scenario**
+
 This exercise explains about how to upload the UI code to web application using Azure portal.
 
 ### Task 1: Uploading the Built UI code to Web Application
