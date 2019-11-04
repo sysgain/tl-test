@@ -111,7 +111,7 @@ The main tasks for this exercise are as follows:
 
 1.	Use the below **URL to generate GUID.**
 
-https://www.guidgenerator.com/
+    https://www.guidgenerator.com/
 
 ![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d9.png)
 
