@@ -48,7 +48,7 @@ Any application that wants to use the capabilities of Azure AD must first be reg
 1.	Sign in to the **Azure portal.**
 2.	In the left-hand navigation pane, click the **Azure Active Directory(symbol)** service, click **App registrations,** and click **+ New application registration.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d1.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d1.png)
 
 1. When the **Create** page appears, enter your application's registration information:
   - **Name**: Enter the application name
