@@ -58,7 +58,7 @@ Any application that wants to use the capabilities of Azure AD must first be reg
   
 4.When finished, click **Create.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d2.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d2.png)
 
 #####   To add Application Credentials or Permissions to Access Web APIs
 
@@ -66,17 +66,17 @@ Any application that wants to use the capabilities of Azure AD must first be reg
 2. You are taken to the application's main registration page, which opens the **Settings** page of the application. To add a secret key for your web application's credentials:
 3. Click the **Keys** section on the **Settings** page.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d3.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d3.png)
 
 4. Add a description for your key and Select duration, click **Save**. 
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d4.png)   
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d4.png)   
     
 5. The right-most column will contain the key value, after you save the configuration changes. **Be sure to copy the key** for use in your client application code, as it is not accessible once you leave this page.  
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d4-1.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d4-1.PNG)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d5.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d5.png)
 
 #####   To get Tenant ID
 
@@ -84,18 +84,18 @@ Any application that wants to use the capabilities of Azure AD must first be reg
 2.	To get the tenant ID, select for your **Azure AD Properties tenant** and **Copy** the **Directory ID**. This value is your **tenant ID.**
 3. **Note down** the Copied **Directory ID** which is highlighted in the below figure, this will be used while deploying the **ARM template.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d6.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d6.png)
 
 #####   To get application ID and Authentication Key
 
 1. From **App registrations** in **Azure Active Directory, select** your **application.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d7.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d7.png)
 
 2. **Copy** the **Application ID** and **object ID.** The application ID value is referred as the **client ID.**
 3. **Note down** the Copied **Application ID** and **object ID** which is highlighted in the below figure, this will be used while deploying the **ARM template.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d8.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d8.png)
 
 **Result:** After completing this exercise, you should have successfully created Azure AD application.
 
@@ -113,12 +113,12 @@ The main tasks for this exercise are as follows:
 
 <https://www.guidgenerator.com/>
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d9.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d9.png)
 
 2. Click **Generate some GUIDs!** This will generate **GUID** in Results box. 
     
 3.	**Copy** and **Note down** the generated GUID which is highlighted in the below figure, this will be used while deploying the **ARM template.**  
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d10.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d10.png)
 
 **Result:** After completing this exercise, you should have successfully created Session ID.
