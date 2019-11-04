@@ -110,9 +110,7 @@ The main tasks for this exercise are as follows:
 ### Task 1: Create session ID
 
 1.	Use the below **URL to generate GUID.**
-
-<https://www.guidgenerator.com/>
-
+https://www.guidgenerator.com/
 ![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d9.png)
 
 2. Click **Generate some GUIDs!** This will generate **GUID** in Results box. 
