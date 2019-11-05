@@ -57,26 +57,26 @@ The main tasks for this exercise are as follows:
 
 1. In Azure portal click on Create a resource.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/b1.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/b1.png)
 2. Search for “bing maps” as show below and click on Bing Maps API for Enterprise.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/b2.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/b2.png)
 3. Click on Create.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/b3.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/b3.png)
 4. Fill all the required details as shown below and click on Create.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/b4.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/b4.png)
 5. Go the resource group and Click on Bing map resource 
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/b5.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/b5.png)
 6. Click on the Key Management and copy the masterkey this value you need to use for BingApiKey
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/b6.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/b6.png)
 
  Here you can updated the details:
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d70.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d70.png)
 
 ## Exercise 2: Build UI Code
 
@@ -92,44 +92,44 @@ Follow the below steps to build web application UI code to point to the deployed
 
  **Note:** Clone the cold-chain repository to your local system and perform the below steps
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d61.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d61.png)
 
 1. Open the **src** folder from **ProjectTitanUICode** folder.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d62.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d62.png)
 
 3.	Open environment folder and update the values of **environment.prod** file.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d63.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d63.png)
 
 4.	Update the values **API_Endpoint, SAS_Token,blobAccessUrl,storageUrl, client_id,web3_password,contractAddress,HttpProvider,gasLimit and BingApiKey**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d64.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d64.png)
 
 5. You can take all the resource values from the ARM template output section
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d128.png) 
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d128.png) 
 
 6.	You can get all the values from the Azure portal as shown below and use the same contract address which you have copied in the earlier step (**5.1. Deploying smart contract and getting the Contract Address**)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d65.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d65.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d66.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d66.png)
 
 7.Click on **Storage Account -> Shared access signature.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d67.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d67.png)
 
 8. Click on **Generate SAS and connection string** button. Copy the **SAS token** and **Blob Access URL** and update into **environment.prod.ts** file.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d68.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d68.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d69.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d69.png)
 
 Here you can updated the details:
  
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d70.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d70.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d127.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d127.png)
 
 9. After updating the **environment.prod.ts** click on open **Node.js command prompt** window and go to the ProjectTitanUICode location i.e. you web application code location as shown in the following screenshots.
 
@@ -137,15 +137,15 @@ Here you can updated the details:
 
 Command: **npm install -g @angular/cli**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d71.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d71.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d72.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d72.png)
 
 10. Here we can **install npm**
 
 Command: **npm install**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d73.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d73.png)
 
 11.	Run the following command to build the code 
 
@@ -153,17 +153,17 @@ Command: **ng build –prod**
 
 Note: Before running the above command make sure that you have installed Angular CLI.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d74.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d74.png)
 
 12. After successful build, you will get the folder called **dist**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d75.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d75.png)
 
 13.	Open **AngularFrontEnd** from the **dist folder,** add the web.config(download it from here ) to the **AngularFrontEnd** and select all the files then zip them. 
 
 **Note**: Download the Web.config file from the repository
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d76.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d76.png)
 
 ## Exercise 3: Uploading the Built UI code to Web Application
 
@@ -177,16 +177,16 @@ This exercise explains about how to upload the UI code to web application using 
 
 Ex: <https://webapikowgh.scm.azurewebsites.net)>
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d77.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d77.png)
 
 2. Click on **Tools** dropdown list and click **Zip Push Deploy** to push the zipped web app code as shown below.
 
 **Note:** Remove the existing files before you push new code. 
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d78.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d78.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d79.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d79.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d80.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d80.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d81.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d81.png)
