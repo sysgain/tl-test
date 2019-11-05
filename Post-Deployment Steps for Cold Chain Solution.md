@@ -49,53 +49,50 @@ The main tasks for this exercise are as follows:
 
 1. Click on **Load Balancer** resource and click on **Inbound NAT rules** in left side.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/de10.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/de10.PNG)
 
 2. Click on **NatBM0_RPC_Port** rules
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/de11.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/de11.PNG)
 
 3. Click on Dropdown **Target virtual machine** to **BMO** and **Network IP configuration** to **BM0** and click **Save**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/de12.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/de12.PNG)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/de13.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/de13.PNG)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/de14.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/de14.PNG)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/de15.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/de15.PNG)
 
 ### Task 1: Deploy smart contract and getting the Contract Address
 
 1.Go back to the **Load Balancer** and copy IP Address and port: **3000** paste it in to the putty.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d51.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d51.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d52.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d52.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d53.png)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d53.png)
- 
- Click **Yes** to continue.
- 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d54.png)    
+Click **Yes** to continue.
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d54.png)    
 
 Login ID: **gethadmin**
 Password: **Password@1234**
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d55.png)  
-
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d56.png)  
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d55.png)    
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d56.png)  
 
 1.	Run the following command in **BM0** to download the **script(smart-script.sh)** to deploy the smart contract
 
 $wget https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/scripts/smart-script.sh
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d57.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d57.png)
 
 2.	Run the following command to change the permissions of the file **smart-script.sh**
 
 $ sudo chmod 777 smart-script.sh 
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d58.png)    
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d58.png)    
     
 3.	Run the script by using below command 
 
@@ -107,11 +104,11 @@ Rpc Url: $1
 Contractsol: $2
 smart_contract_js: $3
     
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d59.png)    
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d59.png)    
     
 4. Contract address displayed on the screen, make a note of the contract address for future reference.   
     
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d60.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d60.png)
 
 #### Running Blockchain servic in TMT-VM
 
@@ -131,17 +128,17 @@ Refer output section from the ARM deployment for the Blockchain IP or FQDN.
 
 5. Login into the **TMT-VM** using **Putty**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d60-1.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d60-1.PNG)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d60-3.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d60-3.PNG)
 
 Login ID: **gethadmin**
 
 Password: **Password@1234**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d60-5.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d60-5.PNG)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d60-6.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d60-6.PNG)
 
 
 6. Run the following command: 
@@ -156,6 +153,6 @@ Password: **Password@1234**
 
 **Ex**: ./blockchain-service.sh "52.175.243.187" "Password@1234" "0xd761de896114f745e5ef789532523ff9ab3cf553" "4000000"
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d60-7.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d60-7.PNG)
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d60-8.PNG)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d60-8.PNG)
