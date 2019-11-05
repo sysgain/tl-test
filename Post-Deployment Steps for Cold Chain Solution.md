@@ -75,6 +75,7 @@ The main tasks for this exercise are as follows:
 ![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d53.png)
 
 Click **Yes** to continue.
+
 ![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d54.png)    
 
 Login ID: **gethadmin**
