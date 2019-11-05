@@ -144,7 +144,7 @@ Password: **Password@1234**
 
 6. Run the following command: 
 
-    **wget <https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/scripts/blockchain-service.sh>**
+    **wget** **https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/scripts/blockchain-service.sh>**
     
     **cat blockchain-service.sh | tr -d '\r' > blockchain-service.sh1 | mv blockchain-service.sh1 blockchain-service.sh**
     
