@@ -10,7 +10,7 @@
 
 [Exercise 2: Uploading the snap to Rigado Gateway](#exercise-2-uploading-the-snap-to-rigado-gateway)
 
-[Exercise 3: Verifiying the Device Configuration](#exercise-3-verifying-the-device-configuration)
+[Exercise 3: Verifying the Device Configuration](#exercise-3-verifying-the-device-configuration)
 
 ## Overview
 
@@ -209,7 +209,7 @@ Navigate to created App and upload the Snap by following the below steps.
 
 ![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d120.png)
 
-## Exercise 3: Verifiying the Device Configuration
+## Exercise 3: Verifying the Device Configuration
 
 **Scenario**
 
@@ -217,9 +217,9 @@ This exercise explains about how to verify the device configuration using Azure 
 
 The main tasks for this exercise are as follows:
 
-1. Verifiying the Device Configuration
+1. Verifying the Device Configuration
 
-### Task 1: Verifiying the Device Configuration
+### Task 1: Verifying the Device Configuration
 
 1.	Go to **Azure Portal.**
 2.	Click on the **Resource Group** and Navigate to the **IoT Hub resource**.
