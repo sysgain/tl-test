@@ -87,23 +87,23 @@ Connect device to computer using **Magnetic USB cable** or **Blue-tooth** connec
 
    Click on **Add Bluetooth** or another devices option to add the teltanika.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d82.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d82.png)
 
 Click on **Bluetooth.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d83.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d83.png)
 
 Choose your **teltanika device ID without LE.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d84.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d84.png)
 
 Provide the Default **password** as 5555 and click on **connect.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d85.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d85.png)
 
 After paired click on **Done.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d86.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d86.png)
 
 3. You are now ready to use the device on your computer.
 
@@ -114,21 +114,21 @@ Below is the link to download the latest TMT250 **Configurator** version.
 
 After downloading, Extract the .zip file and double click on the **configurator.exe** to open the TMT-250 Application.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d87.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d87.png)
 
 Now the application will appear as below.
 
 Click on the **Device icon** to connect the device.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d88.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d88.png)
 
 After connection to Configurator **Status window** will be displayed
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d89.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d89.png)
 
 After the application opens you can see the pop up of parameters loaded success.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d90.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d90.png)
 
 Now go to **GPRS property** on the left-hand side and set the below properties.
 
@@ -142,16 +142,16 @@ Now go to **GPRS property** on the left-hand side and set the below properties.
 
 **3.Port:** Set the port as **21684.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d91.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d91.png)
 
 After providing all the details click on **save to device** tab on the top.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d92.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d92.png)
 
 Go to **Status GSM Info**
 Here you can see the full information like the **Number of records sent, SIM State, GPRS Status and Socket Information.**
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d93.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d93.png)
 
 For more information regarding configuration of **TMT-250** please follow the below link.
 https://wiki.teltonika.lt/view/TMT250_First_Start
@@ -170,7 +170,7 @@ The main tasks for this exercise is:
 
 1.	Connect **LAN cable** to the **Rigado** and switch on it.
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d94.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d94.png)
 
 ## Exercise 3: Connecting Beacons
 
@@ -188,6 +188,6 @@ The main tasks for this exercise is:
 
     Note: If Beacon will show **Red light,** it is in **ON** state otherwise **OFF** state
 
-![alt text](https://github.com/SecureColdChain/Wipro-Ltd-ColdChain/blob/master/Documentation/images/d95.png)
+![alt text](https://raw.githubusercontent.com/SecureColdChain/Wipro-Ltd-ColdChain/master/Documentation/images/d95.png)
 
 Press **ON** the **beacon 3 times,** at that time if it shows **Red light,** it is in **ON** state otherwise it shows **Green light,** it is in **OFF** state.
