@@ -1,4 +1,4 @@
-# # IoT-Solutions-Secure Cold Chain: Administer the Solution
+# IoT-Solutions-Secure Cold Chain: Administer the Solution
 
 ## Table of Contents
 
